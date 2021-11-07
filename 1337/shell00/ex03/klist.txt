@@ -1,0 +1,5 @@
+Credentials cache: API:8C5ABC67-0E60-4563-9A29-F184D16D7A89
+        Principal: hbel-hou@1337.MA
+
+  Issued                Expires               Principal
+Aug  8 14:58:11 2021  Aug  9 00:58:11 2021  krbtgt/1337.MA@1337.MA
